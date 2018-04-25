@@ -1,7 +1,7 @@
-This is an example of standalone H5P content creted manually. It is the Interactive Video example from H5P.org. It is put together very quickly and most (like 99 %) of the library files are unnecessary since the css and js is part of the aggregated files, I just didn't have the time to figure out exactly which ones are needed.
+This is an example of standalone H5P content creted manually. It is the Interactive Video example from H5P.org(https://h5p.org/interactive-video). It is put together very quickly and most (like 99 %) of the library files are unnecessary since the css and js is part of the aggregated files, I just didn't have the time to figure out exactly which ones are needed.
 
 # How to use it?
-Put this code on a web server and make sure the url property in js/h5pintegration.js points to the folder where you keep this content
+Put this code on a web server and make sure the url property in js/h5p-integration.js points to the folder where you keep this content
 
 # How was it made
 Quick notes:
